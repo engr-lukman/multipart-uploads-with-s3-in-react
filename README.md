@@ -1,5 +1,7 @@
 # Multiple multipart large files (1GB And Beyond) uploads to the AWS S3 server using pre-signed URLs and react.js
 
+![image info](./_docs/cover-photo.png)
+
 Clone the repository and run `npm install` command in the terminal.
 
 ## `npm start`
